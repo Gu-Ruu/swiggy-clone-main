@@ -1,0 +1,68 @@
+{
+  "info": {
+    "id": "570252",
+    "name": "Burger King",
+    "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+    "locality": "Bhuteshwar Road",
+    "areaName": "BSA Degree College",
+    "costForTwo": "₹350 for two",
+    "cuisines": ["Burgers", "American"],
+    "avgRating": 4.3,
+    "veg": true,
+    "parentId": "166",
+    "avgRatingString": "4.3",
+    "totalRatingsString": "1K+",
+    "sla": {
+      "deliveryTime": 24,
+      "lastMileTravel": 2.3,
+      "serviceability": "SERVICEABLE",
+      "slaString": "20-25 mins",
+      "lastMileTravelString": "2.3 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2024-03-04 01:00:00",
+      "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {},
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "60% OFF",
+      "subHeader": "UPTO ₹120"
+    },
+    "orderabilityCommunication": {
+      "title": {},
+      "subTitle": {},
+      "message": {},
+      "customIcon": {}
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+  },
+  "analytics": {
+    "context": "seo-data-2814347d-dd92-4789-a3fe-66c891825239"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/restaurants/burger-king-bhuteshwar-road-bsa-degree-college-mathura-570252",
+    "text": "RESTAURANT_MENU",
+    "type": "WEBLINK"
+  },
+  "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}

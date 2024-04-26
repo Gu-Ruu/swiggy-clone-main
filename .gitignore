@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/.parcel-cache
+/.postcssrc
+/
+/coverage
+/tailwind.config.js
+/.parcelrc
+/jest.config.js
