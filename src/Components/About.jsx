@@ -1,8 +1,7 @@
-import User from "./user";
 import UserClass from "./UserClass";
 import React from "react";
 import UserContext from "../Utils/UserContext";
-class About extends React.Component {
+class about extends React.Component {
   constructor(props) {
     super(props);
   }
@@ -27,4 +26,4 @@ class About extends React.Component {
   }
 }
 
-export default About;
+export default about;
